@@ -15,5 +15,6 @@ public class Main {
         double test8 = 10.2;
         double test9 = 10.2;
         double test10 = 10.2;
+        double test11 = 10.2;
     }
 }
